@@ -14,6 +14,5 @@ During the studies about HTML fundamentals, the site was created to demonstrate 
 - CSS 
 
 # Autor
-
-Celice Ceron
+Celice Ceron <br>
 https://www.linkedin.com/in/celice-ceron/
