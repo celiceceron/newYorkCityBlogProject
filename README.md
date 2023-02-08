@@ -9,7 +9,7 @@ https://codepen.io/celiceceron/full/ExppERE
 
 # Used languages
 ## Front end
-- HTML
+- HTML5
 - CSS 
 
 # Autor
